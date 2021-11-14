@@ -1,23 +1,27 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.6435-9/224742918_1719985508193751_117441876561677137_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEdyVdQwd10SVDfHTgDby4xsw4hmGMgM-KzDiGYYyAz4jJGCMG36pCw-fwAXMhPT4iGs7SJtVNZ6Jd3r44iylf8&_nc_ohc=EoP0MBj_MooAX_svjz9&_nc_ht=scontent.fjsr8-1.fna&oh=0c1ec4d5b6ae6956d1e159eea051e0d3&oe=61A0CB32" group-title="",NAZMUL WI-FI ZONE
 https://rebrand.ly/livetv420
+#EXTINF:-1 tvg-logo="https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.6435-9/224742918_1719985508193751_117441876561677137_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEdyVdQwd10SVDfHTgDby4xsw4hmGMgM-KzDiGYYyAz4jJGCMG36pCw-fwAXMhPT4iGs7SJtVNZ6Jd3r44iylf8&_nc_ohc=EoP0MBj_MooAX_svjz9&_nc_ht=scontent.fjsr8-1.fna&oh=0c1ec4d5b6ae6956d1e159eea051e0d3&oe=61A0CB32" group-title="",NAZMUL WI-FI ZONE
+https://rebrand.ly/nazmul04
+#EXTINF:-1 tvg-logo="https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.6435-9/224742918_1719985508193751_117441876561677137_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEdyVdQwd10SVDfHTgDby4xsw4hmGMgM-KzDiGYYyAz4jJGCMG36pCw-fwAXMhPT4iGs7SJtVNZ6Jd3r44iylf8&_nc_ohc=EoP0MBj_MooAX_svjz9&_nc_ht=scontent.fjsr8-1.fna&oh=0c1ec4d5b6ae6956d1e159eea051e0d3&oe=61A0CB32" group-title="",NAZMUL WI-FI ZONE
+https://rebrand.ly/nazmul03
 #EXTINF:-1 group-title="NAZMUL WI-FI ZONE" tvg-logo="https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.6435-9/224742918_1719985508193751_117441876561677137_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEdyVdQwd10SVDfHTgDby4xsw4hmGMgM-KzDiGYYyAz4jJGCMG36pCw-fwAXMhPT4iGs7SJtVNZ6Jd3r44iylf8&_nc_ohc=EoP0MBj_MooAX_svjz9&_nc_ht=scontent.fjsr8-1.fna&oh=0c1ec4d5b6ae6956d1e159eea051e0d3&oe=61A0CB32",Live ALL IN ONE
 https://rebrand.ly/nazmul02
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://dds.oncast.me/img/logo/sp3.png",Live Sports 3
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/KhZPrnw.jpg",Star Sports 1 [Hindi]
 http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
-#EXTINF:-1 ,Live
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://dds.oncast.me/img/logo/sp3.png",Live
 http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/KhZPrnw.jpg",Star Sports 3
 http://nicefly.xyz:80/h21041003/651032140/246220
-#EXTINF:-1 ,Live-
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://dds.oncast.me/img/logo/sp3.png",Live-
 http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
-#EXTINF:-1 ,LIve-0
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://dds.oncast.me/img/logo/sp3.png",LIve-0
 http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
-#EXTINF:-1 ,Live-2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://dds.oncast.me/img/logo/sp3.png",Live-2
 http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
-#EXTINF:-1 ,Live-3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://dds.oncast.me/img/logo/sp3.png",Live-3
 http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
 #EXTINF:-1 group-title="JAGO BD IPTV" tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png",JAGO_Sangsad TV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
