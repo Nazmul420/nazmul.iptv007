@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Sports" tvg-logo="http://bciptv.net/assets/images/live.jpg",Live Sports 6 (Temporary)
-http://178.218.196.218:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="Live Sports" tvg-logo="http://bciptv.net/assets/images/live.jpg",Live Sports 9 (temporary)
-http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
-#EXTINF:-1 group-title="Live Football" tvg-logo="https://i.imgur.com/Xt1nea2.png",Live Football 1
-http://loga.ultratotal.ml/xls/ligota/index.m3u8
-#EXTINF:-1 group-title="Live Football" tvg-logo="https://i.imgur.com/Xt1nea2.png",Live Football 4
-https://ppv.gcdn.co/FOOT3/index.m3u8
+#EXTINF:-1 group-title="Live TSports" tvg-logo="http://bciptv.net/assets/images/live.jpg",Live Sports 6 (Temporary)
+http://103.70.140.27:8080/hls/tsports.m3u8
+#EXTINF:-1 group-title="Live IPL" tvg-logo="http://bciptv.net/assets/images/live.jpg",Live Sports 9 (temporary)
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
+#EXTINF:-1 group-title="Live IPL" tvg-logo="https://i.imgur.com/Xt1nea2.png",Live Football 1
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_5.m3u8
+#EXTINF:-1 group-title="Live IPL" tvg-logo="https://i.imgur.com/Xt1nea2.png",Live Football 4
+http://103.149.130.122:8089/1/index.m3u8
 #EXTINF:-1 group-title="Live Football" tvg-logo="https://i.imgur.com/Xt1nea2.png",Live Football 5
 https://ppv.gcdn.co/FOOT2/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg",Gazi TV  (BDIX16)
-http://103.149.130.122:8089/1/index.m3u8
+http://103.70.140.27:8080/hls/tsports.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg",Gazi TV (BDIX19)
 http://103.111.120.94:8089/1/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://amrbd.com/assets/images/anandotv.jpg",Ananda TV (BDIX0)
