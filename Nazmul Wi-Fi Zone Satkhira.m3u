@@ -1,2 +1,3 @@
-#EXTM3U 
-#EXTINF:-1 https://mn-nl-glb.mncdn.com/dlive/transcode-83-243/bdnazmul420/1662917538/src/live.m3u8 
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png", Nazmul WI-FI Zone
+https://qiniu.dlivecdn.com/dlive/transcode-75-231/bdnazmul420/1662919302/src/live.m3u8
