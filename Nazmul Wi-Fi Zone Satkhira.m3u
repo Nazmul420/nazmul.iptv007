@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://brandlogos.net/wp-content/uploads/2011/06/wifi-zone-logo.png", Nazmul WI-FI Zone
-https://rebrand.ly/nazmul20220
+https://play6.cdn786.com:999/hls/star1in.m3u8?md5=5RoUYV8zf7S38WlbxsxU5A&expires=1665919319
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png",GTV
 http://10.252.253.254/hls/Gazi-TV.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/fRcCFRnm/Somoy-TV.png",Somoy TV
