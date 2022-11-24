@@ -5,10 +5,10 @@
 http://172.16.29.250/hls/qurqntv.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,Nazmul WI-FI ZONE
-http://172.16.29.28:8080/hls/live1-fnet.m3u8
+http://172.16.29.242:8080/fnet/live1/index.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi Tv HD
-http://172.16.29.28/hls/sports3.m3u8
+http://172.16.29.242:8080/fnet/live2/index.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" ,T sports HD
 http://172.16.29.250/hls/t-sports.m3u8
