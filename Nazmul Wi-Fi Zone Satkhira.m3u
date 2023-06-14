@@ -76,6 +76,21 @@ http://172.16.29.250/hls/channeli.m3u8
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" ,Masranga HD
 http://172.16.29.250/hls/masranga.m3u8
 
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/somoytv.jpg" ,Somoy TV
+http://172.16.29.250/hls/somoy.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/71.jpg" ,Ekattor TV
+http://172.16.29.250/hls/nexus.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/indepen.png" ,Independent Television
+http://172.16.29.250/hls/indepen.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/travelxphd.jpg" ,Travelxp
+http://172.16.29.250/hls/travelxp.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/sunbangla.jpg" ,Sun Bangla 
+http://172.16.29.250/hls/sunbangla.m3u8
+
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" ,Somoy HD
 http://172.16.29.250/hls/somoy.m3u8
 
@@ -96,3 +111,72 @@ http://172.16.29.250/hls/gb.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" ,Duranta HD
 http://172.16.29.250/hls/duranta.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/starbangla.jpg" ,Star Bangla 
+http://172.16.29.250/hls/khushboo.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/sonypixhd.jpg" ,Sonypix HD
+http://172.16.29.250/hls/sonypixhd.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/movies-now.jpg" ,Movies Now
+http://172.16.29.250/hls/movies-now.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/starmovies.jpg" ,Star Movies
+http://172.16.29.250/hls/starmovies.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/bbcearth.jpg" ,BCC Arth
+http://172.16.29.250/hls/bbcearth.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/mn+.jpg" ,MN+ HD
+http://172.16.29.250/hls/mn+.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/animalplanent.jpg" ,Animal Planent
+http://172.16.29.250/hls/animalplanent.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/dis.png" ,discovery
+http://172.16.29.250/hls/discovery.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/Nat_Geo_HD.png" ,NGO H
+http://172.16.29.250/hls/ngohd.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/wild.png" ,Wild
+http://172.16.29.250/hls/wild.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/romedy.png" ,Star-Worldhd
+http://172.16.29.250/hls/star-worldhd.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/mnx-hd.jpg" ,MNX HD
+http://172.16.29.250/hls/mnx-hd.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/bbcworld.jpg" ,Bcc World
+http://172.16.29.250/hls/bbcworld.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/andpictures-hd.jpg" ,&icture HD
+http://172.16.29.250/hls/andpictures.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/colors-tv-hd.jpg" ,ColorsTV HD
+http://172.16.29.250/hls/colore-tv-hd.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/zeecinemahd.jpg" ,Zee Cinema HD
+http://172.16.29.250/hls/zeecinemahd.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/starplus.jpg" ,Star Plas HD
+http://172.16.29.250/hls/starplus.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/colorscineplex.jpg" ,Colors cineplex HD
+http://172.16.29.250/hls/colorscineplex.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/sonyen.png" ,SonyEN
+http://172.16.29.250/hls/sonyen.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/sony-maxhd.jpg" ,Sony MAX HD
+http://172.16.29.250/hls/sony-maxhd.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/zeetv.png" ,Zee TV
+http://172.16.29.250/hls/zeetv.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/stargold.jpg" ,Star Gold
+http://172.16.29.250/hls/stargold.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/9xm.png" ,9xm
+http://172.16.29.250/hls/9xm.m3u8
