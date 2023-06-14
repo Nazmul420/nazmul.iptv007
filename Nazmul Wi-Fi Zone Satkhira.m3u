@@ -180,3 +180,42 @@ http://172.16.29.250/hls/stargold.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/9xm.png" ,9xm
 http://172.16.29.250/hls/9xm.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/sony-5.png" ,Sony Six
+http://172.16.29.250/hls/sonysix.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/star_sports3.jpg" ,Sports 3
+http://172.16.29.250/hls/starsports3.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/Star_Sports_Select_1_HD.jpg" ,Star Sports Seleted
+http://172.16.29.250/hls/Star_Sport_Select1HD.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/stersports1hd.jpg" ,Star Sports 1 HD
+http://172.16.29.250/hls/stersports1hd.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/ster-sport-2hd.png" ,Star Sports 2 HD
+http://172.16.29.250/hls/starsports2.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/sony-3.png" ,Star Sports 3 HD
+http://172.16.29.250/hls/sonyten3.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/select2.jpg" , Seleted 2
+http://172.16.29.250/hls/select2.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/sony-2.png" ,Sony Ten 2
+http://172.16.29.250/hls/sonyten2.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/sony-1.png" ,Sony Ten 1
+http://172.16.29.250/hls/sonyten1.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/PTV_Sports.png" ,PTV Sports
+http://172.16.29.250/hls/ptv.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/18.png" , 18Sports
+http://172.16.29.250/hls/bein1.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/sonyyay.jpg" ,Sony Yay
+http://172.16.29.250/hls/dis-kid.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/nick.jpg" ,Nick KID
+http://172.16.29.250/hls/nick.m3u8
