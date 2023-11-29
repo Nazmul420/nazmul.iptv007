@@ -5,7 +5,7 @@
 http://172.16.29.250/hls/qurqntv.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://ibb.co/6Y9Rfc7" ,Nazmul WI-FI ZONE
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1701258638~exp=1701301838~acl=/*~data=45.61.146.183-WEB~hmac=0af473e664194ee01c88c6dea7da8a8fc631fac53f7d1bde83dcbdeb53424fee
+http://172.16.29.34:80/ontest1/ontest1/181.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi Tv HD 1
 http://172.16.29.242:8080/fnet/live3/index.m3u8
@@ -113,7 +113,7 @@ http://172.16.29.250/hls/banglavision.m3u8
 http://172.16.29.250/hls/nagorik.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Gaan_Bangla_Logo.png/220px-Gaan_Bangla_Logo.png" ,GAAN BANGLA HD
-http://103.109.56.116/live/funtime109/index.m3u8
+http://172.16.29.34:80/ontest1/ontest1/227.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" ,Duranta HD
 http://172.16.29.250/hls/duranta.m3u8
@@ -125,7 +125,7 @@ http://103.109.56.116/live/skyfeed1011/index.m3u8
 http://103.109.56.116/live/funtime106/index.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/22e86d84-af07-4d5c-82a1-7b2ceff903bf/a48bda27-b847-447f-95c3-c09199dcc7cb.png?width=400" ,Ekhon TV HD
-https://live.bongobd.com/hls/u32iXfx0S0S_IGH39dq0aA/1701261375/sky-ekhon-tv_hi/index.m3u8
+http://172.16.29.34:80/ontest1/ontest1/221.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" ,My TV HD
 https://live.bongobd.com/hls/usuKY5VWTXIZsJAF2-APhg/1701261856/sky-my-tv_hi/index.m3u8
