@@ -4,7 +4,7 @@
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/%D8%B4%D8%A8%D9%83%D8%A9_%D8%A7%D9%84%D9%85%D8%AC%D8%AF.png/220px-%D8%B4%D8%A8%D9%83%D8%A9_%D8%A7%D9%84%D9%85%D8%AC%D8%AF.png" ,Quran TV HD
 http://172.16.29.250/hls/qurqntv.m3u8
 
-#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,Nazmul WI-FI ZONE
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://ibb.co/6Y9Rfc7" ,Nazmul WI-FI ZONE
 https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1701258638~exp=1701301838~acl=/*~data=45.61.146.183-WEB~hmac=0af473e664194ee01c88c6dea7da8a8fc631fac53f7d1bde83dcbdeb53424fee
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi Tv HD 1
