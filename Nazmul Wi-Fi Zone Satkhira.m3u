@@ -43,7 +43,7 @@ http://172.16.29.250/hls/zeebanglahd.m3u8
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://103.109.56.115/skynet@8080/ftpdata/live_TV/star_jalsa.png" ,Star Jalsha HD
 http://172.16.29.250/hls/starjalsha.m3u8
 
-#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" ,Zee Bangla Cinema
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://ibb.co/kKydWnr" ,Zee Bangla Cinema
 http://172.16.29.250/hls/zee-bangla-cinema.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://banner2.cleanpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg" ,Star Jalsha Movies HD
