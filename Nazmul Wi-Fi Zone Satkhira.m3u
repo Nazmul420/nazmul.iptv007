@@ -5,13 +5,13 @@
 http://172.16.29.250/hls/qurqntv.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" ,Nazmul WI-FI ZONE
-http://172.16.29.242:8080/fnet/live1/index.m3u8
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1701258638~exp=1701301838~acl=/*~data=45.61.146.183-WEB~hmac=0af473e664194ee01c88c6dea7da8a8fc631fac53f7d1bde83dcbdeb53424fee
 
-#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi Tv HD
-http://172.16.29.242:8080/fnet/live2/index.m3u8
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi Tv HD 1
+http://172.16.29.242:8080/fnet/live3/index.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" ,T sports HD
-http://172.16.29.250/hls/t-sports.m3u8
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" ,Gazi Tv HD
 http://172.16.29.250/hls/Gazi-TV.m3u8
@@ -98,7 +98,7 @@ http://172.16.29.250/hls/somoy.m3u8
 http://172.16.29.250/hls/jamuna.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/200px-ATN_Bangla.svg.png" ,ATN Bangla HD
-http://172.16.29.250/hls/atn.m3u8.
+https://live.bongobd.com/hls/loz_1eYzs5D3_9qW87PV_g/1701261118/sky-atn-bangla.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/120px-Banglavision.svg.png" ,BanglaVision HD
 http://172.16.29.250/hls/banglavision.m3u8
@@ -107,10 +107,22 @@ http://172.16.29.250/hls/banglavision.m3u8
 http://172.16.29.250/hls/nagorik.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Gaan_Bangla_Logo.png/220px-Gaan_Bangla_Logo.png" ,GAAN BANGLA HD
-http://172.16.29.250/hls/gb.m3u8
+chrome-extension://hahkjjkedonglpienpfiganogikkkoii/player.html#https://live.bongobd.com/hls/id9wCww03Ku_BRDed9-g9Q/1701261325/sky-gaan-bangla_hi/index.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" ,Duranta HD
 http://172.16.29.250/hls/duranta.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/22e86d84-af07-4d5c-82a1-7b2ceff903bf/a48bda27-b847-447f-95c3-c09199dcc7cb.png?width=400" ,Ekhon TV HD
+https://live.bongobd.com/hls/u32iXfx0S0S_IGH39dq0aA/1701261375/sky-ekhon-tv_hi/index.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" ,My TV HD
+https://live.bongobd.com/hls/usuKY5VWTXIZsJAF2-APhg/1701261856/sky-my-tv_hi/index.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://www.satv.tv/wp-content/uploads/2021/08/satv-logo-1.jpg" ,SA TV HD
+https://live.bongobd.com/hls/okWA2Jr1BO-YY1CsO2NBZw/1701261688/sky-sa-tv_hi/index.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://render.fineartamerica.com/images/rendered/square-dynamic/small/images/artworkimages/mediumlarge/1/6-dhakabanglacom-dbc-news-bangladesh.jpg" ,DBC Bangla HD
+https://live.bongobd.com/hls/Ad-rrjDHwV28F_fJ3uxGfw/1701262029/sky-dbc-news_hi/index.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/starbangla.jpg" ,Star Bangla 
 http://172.16.29.250/hls/khushboo.m3u8
@@ -212,7 +224,10 @@ http://172.16.29.250/hls/sonyten1.m3u8
 http://172.16.29.250/hls/ptv.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/18.png" , 18Sports
-http://172.16.29.250/hls/bein1.m3u8
+http://172.16.29.250/hls/18.m3u8
+
+#EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/PTV_Sports.png" , PTV- Sports
+http://172.16.29.250/hls/ptv.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="http://172.16.29.250/img/sonyyay.jpg" ,Sony Yay
 http://172.16.29.250/hls/dis-kid.m3u8
