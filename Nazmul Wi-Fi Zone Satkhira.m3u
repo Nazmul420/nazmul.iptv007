@@ -95,7 +95,7 @@ http://172.16.29.250/hls/sunbangla.m3u8
 http://172.16.29.250/hls/somoy.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" ,Jamuna HD
-http://172.16.29.250/hls/jamuna.m3u8
+https://edge4.bioscopelive.com/hls/anonymous/nbBOLTUdDvXtLQNMajE4Cw/1701262523/live-jamuna-tv_hi/index.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/200px-ATN_Bangla.svg.png" ,ATN Bangla HD
 https://live.bongobd.com/hls/loz_1eYzs5D3_9qW87PV_g/1701261118/sky-atn-bangla.m3u8
