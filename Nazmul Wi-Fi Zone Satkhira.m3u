@@ -8,7 +8,7 @@ http://172.16.29.250/hls/qurqntv.m3u8
 http://172.16.29.34:80/ontest1/ontest1/181.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" ,Gazi Tv HD 1
-http://172.16.29.242:8080/fnet/live3/index.m3u8
+http://172.16.29.28:8080/fnet/live3/index.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" ,T sports HD
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
@@ -17,13 +17,13 @@ http://172.16.29.28:8080/hls/live1-fnet.m3u8
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" ,Gazi Tv HD
-http://172.16.29.250/hls/Gazi-TV.m3u8
+http://172.16.29.28/hls/Gazi-TV.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Sony_six_logo.png/220px-Sony_six_logo.png" ,Sony Six HD
-http://172.16.29.250/hls/sonysix.m3u8
+http://172.16.29.28/hls/sonysix.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Star_Sports_Select_1.jpg/revision/latest?cb=20180806112549" ,Star sports selection 1 HD
-http://172.16.29.250/hls/Star_Sport_Select1HD.m3u8
+http://172.16.29.28/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF:-1 group-title="NAZMUL WIFI ZONE"  tvg-logo="https://dl7.wapkizfile.info/download/7726774b295c4a6ad408cdfebf45df9a/bbc079416aee588adb5f87522b0e20f9/net4wap+wapkiz+com/Star%20Sports%20Select%202%20HD.jpg" ,Star sports selection 2 HD
 http://172.16.29.250/hls/select2.m3u8
